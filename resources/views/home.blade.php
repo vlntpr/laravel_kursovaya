@@ -6,19 +6,14 @@
 
 <!-- <img src="img/main.jpg" alt="main-img" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina=""> -->
 <section class="py-0" id="home">
-        <div class="bg-holder d-none d-md-block" style="background-image:url(/img/main.jpg);background-position:right bottom;">
+        <div class="bg-holder d-none d-md-block" style="background-image:url(/img/main.jpg);background-position:right bottom; height: 100%; width: 100%;">
         </div>
-        <!--/.bg-holder-->
-
-        <!-- <div class="bg-holder d-block d-md-none" style="background-image:url(/img/main.jpg);background-position:right top;">
-        </div> -->
-        <!--/.bg-holder-->
 
         <div class="container">
           <div class="row align-items-center min-vh-md-75">
             <div class="col-md-7 col-lg-6 py-6 text-sm-start text-center">
-              <h1 class="mt-6 mb-sm-4 display-4 fw-semi-bold lh-sm fs-4 fs-lg-6 fs-xxl-7">Today's research, <br class="d-block d-lg-none d-xl-block">tomorrow's innovation</h1>
-              <p class="mb-4 fs-1">Accelerating research discovery to shape a better future </p>
+              <h1 class="mt-6 mb-sm-4 display-4 fw-semi-bold lh-sm fs-4 fs-lg-6 fs-xxl-7">Find your favorites</h1>
+              <p class="mb-4 fs-1">A fan-created, fan-run, nonprofit, noncommercial archive for transformative fanworks </p>
               <div class="pt-3">
                 <form>
                   <div class="input-group w-xl-75 w-xxl-50 d-flex flex-end-center">
