@@ -13,6 +13,20 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+
+
+Route::get('/', function () { 
     return view('home');
-});
+})->name('home');
+
+Route::get('/fandoms', function () { 
+    return view('fandoms');
+})->name('fandoms');
+
+Route::get('/more', function () { 
+    return view('fandoms-more');
+})->name('more');
+
+Route::get('/works', function () { 
+    return view('works');
+})->name('works');
