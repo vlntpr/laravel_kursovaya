@@ -1,5 +1,5 @@
 <header>
-<nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" data-navbar-on-scroll="data-navbar-on-scroll" style="background-image: none; background-color: rgba(249, 250, 253, 0);">
+<nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" data-navbar-on-scroll="data-navbar-on-scroll" style="background-image: none; background-color: rgba(255, 255, 255, 0.35);">
         <div class="container"><a class="navbar-brand d-flex align-items-center fw-semi-bold fs-3" href="#">
             <div class="text-primary font-base">Archive</div>
           </a>
