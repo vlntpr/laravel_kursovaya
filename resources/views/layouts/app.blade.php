@@ -22,5 +22,12 @@
     @include('inc.header')
     @yield('content')
     @include('inc.footer')
+    @include('inc.scripts')
+    @include('inc.popper')
+    @include('inc.bootstrap')
+    @include('inc.is')
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
+
+
 </body>
 </html>
