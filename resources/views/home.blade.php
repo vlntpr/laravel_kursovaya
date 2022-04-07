@@ -23,11 +23,13 @@
               </div>
             </div>
           </div>
+          <div class="fandoms_row ">
+            <div class="row mb-2">
+              @include('inc.categories')
+            </div>
+          </div>
         </div>
+        
       </section>
-      <div class="fandoms_row ">
-<div class="row mb-2">
-  @include('inc.categories')
-  </div>
-</div>
+      
 @endsection
