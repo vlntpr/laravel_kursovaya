@@ -17369,14 +17369,10 @@
   
   section {
     position: relative;
-    padding-top: 4rem;
-    padding-bottom: 4rem;
   }
   
   @media (min-width: 992px) {
     section {
-      padding-top: 7.5rem;
-      padding-bottom: 7.5rem;
     }
   }
   
@@ -18177,27 +18173,27 @@
 
   
 
-  .fandoms_row {
-    /* width: 90%; */ 
-    margin-right: 10%;
-    margin-left: 10%;
+  /* .fandoms_row {
+    margin-right: 5%;
+    margin-left: 5%;
   }
 
-  .fandoms-more {
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 2%;
-  }
+ 
   
   .mb-15 {
     margin-top: 1%;
   }
-
+*/
   .works {
+    margin-top: 120px;
+  } 
+ .fandoms-more {
     margin-top: 120px;
     margin-left: 10%;
     margin-right: 10%;
+    margin-bottom: 2%;
   }
-  
+  .line {
+    display: inline-block;
+  }
 
-  
