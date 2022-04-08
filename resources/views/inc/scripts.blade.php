@@ -348,4 +348,11 @@ docReady(navbarInit);
 docReady(detectorInit);
 //# sourceMappingURL=theme.js.map
 
+$(document).ready(function() {
+            $('.js-example-basic-multiple').select2();
+        });
+
+$(document).ready(function() {
+    $('.js-example-basic-single').select2();
+});
 </script>
